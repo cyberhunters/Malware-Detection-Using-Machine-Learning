@@ -1,0 +1,13 @@
+The squence of these tutorial is given below:
+
+1. ASM file to TEXT file (removing unwanted data)
+
+2. CSV data based on frequency Count of Opcode
+
+3. Reducing opcode feature 
+
+4. Data Splitting
+
+5. Min-max normalization
+
+6. Feature Selection
