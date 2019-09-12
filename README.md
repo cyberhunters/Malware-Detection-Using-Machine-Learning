@@ -16,10 +16,10 @@ https://drive.google.com/drive/folders/1s7EC4s_-hP9q5vEhs-3vAubspcZbBADK?usp=sha
 
 After downloading the required dataset, following is the sequence of files that will lead to resuts.
 
-1. Creating hybrid dataset
+1. "Creating hybrid dataset"
 
-2. Min-max normalization(hybrid dataset)
+2. "Min-max normalization(hybrid dataset)"
 
-3. ANN-Results
+3. "ANN-Results"
 
 The project was done under the guidance of Dr. Asifullah Khan, DCIS, PIEAS.
