@@ -6,7 +6,8 @@ Two major approaches we used for malware classification:
 Independent of the platform
 It requires No knowledge of domain like assembly instructions
 2- Hybrid feature space using both ASM and byte file
-This approach is platform dependent but gives a better performance that using byte file. Requires huge resources and processing time
+This approach is platform dependent but gives a better performance that using byte file. Requires huge resources and processing time.
+
 The sequence of the tutuorials is given below:
 
 1. Creating hybrid dataset
