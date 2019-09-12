@@ -12,7 +12,7 @@ The data used in these tutorial can be found on the Hybrid(Final) folder of foll
 
 https://drive.google.com/drive/folders/1s7EC4s_-hP9q5vEhs-3vAubspcZbBADK?usp=sharing
 
-After downloading the required dataset, following is the sequence of files whose execution will lead to results.
+After downloading the required dataset, following is the sequence of files in the hybrid folder whose execution will lead to results.
 
 1. "Creating hybrid dataset"
 
